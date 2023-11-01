@@ -1,0 +1,14 @@
+{
+  "name": "dailyprogrammingchallenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Pedro <pedromarques391@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only LevelOne/Day10.ts"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.2.2"
+  }
+}
