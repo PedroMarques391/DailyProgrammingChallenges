@@ -5,4 +5,4 @@ function multply(num: number) {
         console.log(mult)
     } 
 }
-multply(8)
+multply(8) 
