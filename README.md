@@ -54,6 +54,8 @@ Dada uma String qualquer, você deve imprimir na tela a quantidade de caracteres
 
 ### Exemplo de Saída
 14
+<a name="2"></a>
+
 ## [2° Dia (11/10) - Transformar em Grito](#2)
 Dificuldade: ⭐☆☆☆☆
 
@@ -65,6 +67,7 @@ Você deve receber o nome do usuário como entrada e imprimir o nome do usuário
 
 ### Exemplo de Saída
 TYPESCRIPT
+<a name="3"></a>
 
 ## [3° Dia (12/10) - Inverter Array](#3)
 Dificuldade: ⭐☆☆☆☆
@@ -78,6 +81,8 @@ O desafio consiste em inverter um array de números inteiros e, em seguida, impr
 
 ### Exemplo de Saída
 [2, 3, 1, 2]
+<a name="4"></a>
+
 ## [4° Dia (13/10) - Média das Notas](#4)
 Vocês já ouviram falar sobre Float? Float nada mais é que um número com vírgula -> 1,5 / 2,5 / 5,5...
 
@@ -95,6 +100,8 @@ P3 = 8.0
 
 ### Exemplo de Saída
 A média é: 6.0
+<a name="5"></a>
+
 ## [5° Dia (14/10) - Condição if/else](#5)
 Dificuldade: ⭐☆☆☆☆
 
@@ -112,6 +119,8 @@ if (a: number > 2) {
   console.log("é menor que 2");
 }
 ```
+<a name="6"></a>
+
 ## [6° Dia (15/10) - Ordem Crescente](#6)
 Dificuldade: ⭐⭐☆☆☆
 
@@ -127,6 +136,8 @@ c = 5
 
 ### Exemplo de Saída
 3, 5, 10
+<a name="7"></a>
+
 ## [7° Dia (16/10) - Função](#7)
 Dificuldade: ⭐☆☆☆☆
 
@@ -140,6 +151,7 @@ idade = 45
 
 ### Exemplo de Saída
 Breach, 45
+<a name="8"></a>
 
 ## [8° Dia (17/10) - Verificar se Array contém um número específico](#8)
 Dificuldade: ⭐☆☆☆☆
@@ -154,6 +166,8 @@ numero = 4
 
 ### Exemplo de Saída
 Não tem o número 4
+<a name="9"></a>
+
 ## [9° Dia  (18/10) - Estrutura Hash](#9)
 Hoje vamos falar de uma estrutura chamada Hash, HashMap, Dicionário, etc.. (o nome varia de linguagem pra linguagem), essa estrutura é basicamente um agrupamento de chave e valor. Por exemplo, o hash { nome: 'Jett', idade: 19 } contém as chaves nome e idade com seus respectivos valores.
 
@@ -169,6 +183,8 @@ O objetivo é escrever um programa que imprima os valores e as chaves de um hash
 Nome é Jett
 
 Idade é 19
+<a name="10"></a>
+
 ## [10° Dia (19/10) - Mudar o valor de uma chave do Hash](#10)
 Dificuldade: ⭐☆☆☆☆
 
@@ -180,6 +196,7 @@ O objetivo é escrever um programa que transforme o valor da chave “profissao�
 
 ### Exemplo de Saída
 { nome: 'Michael', idade: 40, profissao: 'Programador' }
+<a name="11"></a>
 
 ## [11° Dia (20/10) - Transformar Array em Hash](#11)
 Dificuldade: ⭐⭐⭐☆☆
@@ -193,6 +210,8 @@ Array
 ### Exemplo de Saída
 Hash
 { nome: "corretora abc", tipo: "empresa", negocio: "aluguel e vendas" }
+<a name="12"></a>
+
 ## [12° Dia (21/10) - Soma dos Números Pares](#12)
 Dificuldade: ⭐☆☆☆☆
 
@@ -204,6 +223,8 @@ Digite um número inteiro positivo: 10
 
 ### Exemplo de Saída
 A soma dos números pares até 10 é 30.
+<a name="13"></a>
+
 ## [13° Dia (22/10) - Tabuada de Multiplicação](#13)
 Dificuldade: ⭐☆☆☆☆
 
@@ -223,6 +244,8 @@ Digite um número inteiro positivo: 8
 ....
 
 8x10 = 80
+<a name="14"></a>
+
 ## [14° Dia (23/10) - Encontre o Maior Elemento no Array](#14)
 Dificuldade: ⭐⭐☆☆☆
 
@@ -234,6 +257,7 @@ O objetivo é descobrir o maior elemento em um array de inteiros.
 
 ### Exemplo de Saída
 O maior número é 9
+<a name="15"></a>
 
 ## [15° Dia (24/10) - Soma dos Dígitos](#15)
 Dificuldade: ⭐⭐☆☆☆
@@ -246,6 +270,7 @@ O objetivo é calcular a soma dos dígitos de um número inteiro.
 
 ### Exemplo de Saída
 A soma dos dígitos é 15
+<a name="16"></a>
 
 ## [16° Dia (25/10) - Contagem de Vogais](#16)
 Dificuldade: ⭐⭐☆☆☆
@@ -258,6 +283,8 @@ O objetivo é contar quantas vogais (inclusive com acentuações) existem em uma
 
 ### Exemplo de Saída
 Existem 5 vogais na string
+<a name="17"></a>
+
 ## [17° Dia (26/10) - Contagem de Números Positivos e Negativos](#17)
 Dificuldade: ⭐⭐☆☆☆
 
@@ -271,6 +298,8 @@ O objetivo é contar quantos números positivos e negativos existem em um array 
 Positivos: 4
 
 Negativos: 3
+<a name="18"></a>
+
 ## [18° Dia (27/10) - Gerador de Senhas Aleatórias](#18)
 Dificuldade: ⭐⭐⭐☆☆
 
@@ -279,6 +308,8 @@ O objetivo é criar um programa que gere senhas aleatórias de 8 caracteres, com
 
 ### Exemplo de Saída
 A senha gerada é: A2bF9zP7
+<a name="19"></a>
+
 ## [19° Dia (28/10) - Sequência Espelho](#19)
 Dificuldade: ⭐⭐☆☆☆
 
@@ -290,6 +321,8 @@ O objetivo é criar um programa que gere uma sequência espelho. Dada uma sequê
 
 ### Exemplo de Saída
 [1, 2, 3, 3, 2, 1]
+<a name="20"></a>
+
 ## [20° Dia (29/10) - Contador de Vezes](#20)
 Dificuldade: ⭐⭐☆☆☆
 
@@ -303,6 +336,8 @@ Letra: 'a'
 
 ### Exemplo de Saída
 4
+<a name="21"></a>
+
 ## [21° Dia (30/10) - Validador de Senha](#21)
 Dificuldade: ⭐⭐⭐☆☆
 
@@ -314,6 +349,8 @@ O objetivo é criar um programa que valide senhas com os seguintes critérios: p
 
 ### Exemplo de Saída
 Senha válida
+<a name="22"></a>
+
 ## [22° Dia (31/10) - Gerador de Frases](#22)
 Dificuldade: ⭐⭐⭐☆☆
 
@@ -332,6 +369,8 @@ Neste desafio, você estará criando um gerador de frases aleatórias, combinand
 const animais = ["gato", "cachorro", "porco-espinho"];
 const cores = ["vermelho", "preto", "azul"];
 ```
+<a name="23"></a>
+
 ## 23° Dia (01/11) - Verificador de Anagramas
 Dificuldade: ⭐⭐☆☆☆
 
