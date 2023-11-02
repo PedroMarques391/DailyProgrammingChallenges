@@ -54,7 +54,7 @@ Dada uma String qualquer, você deve imprimir na tela a quantidade de caracteres
 
 ### Exemplo de Saída
 14
-## 2° Dia (11/10) - Transformar em Grito
+## [2° Dia (11/10) - Transformar em Grito](#2)
 Dificuldade: ⭐☆☆☆☆
 
 ### Descrição do Problema
@@ -66,7 +66,7 @@ Você deve receber o nome do usuário como entrada e imprimir o nome do usuário
 ### Exemplo de Saída
 TYPESCRIPT
 
-## 3° Dia (12/10) - Inverter Array
+## [3° Dia (12/10) - Inverter Array](#3)
 Dificuldade: ⭐☆☆☆☆
 
 ### Descrição do Problema
@@ -78,7 +78,7 @@ O desafio consiste em inverter um array de números inteiros e, em seguida, impr
 
 ### Exemplo de Saída
 [2, 3, 1, 2]
-## 4° Dia (13/10) - Média das Notas
+## [4° Dia (13/10) - Média das Notas](#4)
 Vocês já ouviram falar sobre Float? Float nada mais é que um número com vírgula -> 1,5 / 2,5 / 5,5...
 
 Dificuldade: ⭐☆☆☆☆
@@ -95,7 +95,7 @@ P3 = 8.0
 
 ### Exemplo de Saída
 A média é: 6.0
-## 5° Dia (14/10) - Condição if/else
+## [5° Dia (14/10) - Condição if/else](#5)
 Dificuldade: ⭐☆☆☆☆
 
 ### Descrição do Problema
@@ -112,7 +112,7 @@ if (a: number > 2) {
   console.log("é menor que 2");
 }
 ```
-## 6° Dia (15/10) - Ordem Crescente
+## [6° Dia (15/10) - Ordem Crescente](#6)
 Dificuldade: ⭐⭐☆☆☆
 
 ### Descrição do Problema
@@ -127,7 +127,7 @@ c = 5
 
 ### Exemplo de Saída
 3, 5, 10
-## 7° Dia (16/10) - Função
+## [7° Dia (16/10) - Função](#7)
 Dificuldade: ⭐☆☆☆☆
 
 ### Descrição do Problema
@@ -141,7 +141,7 @@ idade = 45
 ### Exemplo de Saída
 Breach, 45
 
-## 8° Dia (17/10) - Verificar se Array contém um número específico
+## [8° Dia (17/10) - Verificar se Array contém um número específico](#8)
 Dificuldade: ⭐☆☆☆☆
 
 ### Descrição do Problema
@@ -154,7 +154,7 @@ numero = 4
 
 ### Exemplo de Saída
 Não tem o número 4
-## 9° Dia  (18/10) - Estrutura Hash
+## [9° Dia  (18/10) - Estrutura Hash](#9)
 Hoje vamos falar de uma estrutura chamada Hash, HashMap, Dicionário, etc.. (o nome varia de linguagem pra linguagem), essa estrutura é basicamente um agrupamento de chave e valor. Por exemplo, o hash { nome: 'Jett', idade: 19 } contém as chaves nome e idade com seus respectivos valores.
 
 Dificuldade: ⭐☆☆☆☆
@@ -169,7 +169,7 @@ O objetivo é escrever um programa que imprima os valores e as chaves de um hash
 Nome é Jett
 
 Idade é 19
-## 10° Dia (19/10) - Mudar o valor de uma chave do Hash
+## [10° Dia (19/10) - Mudar o valor de uma chave do Hash](#10)
 Dificuldade: ⭐☆☆☆☆
 
 ### Descrição do Problema
@@ -181,7 +181,7 @@ O objetivo é escrever um programa que transforme o valor da chave “profissao�
 ### Exemplo de Saída
 { nome: 'Michael', idade: 40, profissao: 'Programador' }
 
-## 11° Dia (20/10) - Transformar Array em Hash
+## [11° Dia (20/10) - Transformar Array em Hash](#11)
 Dificuldade: ⭐⭐⭐☆☆
 
 ### Descrição do Problema
@@ -193,7 +193,7 @@ Array
 ### Exemplo de Saída
 Hash
 { nome: "corretora abc", tipo: "empresa", negocio: "aluguel e vendas" }
-## 12° Dia (21/10) - Soma dos Números Pares
+## [12° Dia (21/10) - Soma dos Números Pares](#12)
 Dificuldade: ⭐☆☆☆☆
 
 ### Descrição do Problema
@@ -204,7 +204,7 @@ Digite um número inteiro positivo: 10
 
 ### Exemplo de Saída
 A soma dos números pares até 10 é 30.
-## 13° Dia (22/10) - Tabuada de Multiplicação
+## [13° Dia (22/10) - Tabuada de Multiplicação](#13)
 Dificuldade: ⭐☆☆☆☆
 
 ### Descrição do Problema
@@ -223,7 +223,7 @@ Digite um número inteiro positivo: 8
 ....
 
 8x10 = 80
-## 14° Dia (23/10) - Encontre o Maior Elemento no Array
+## [14° Dia (23/10) - Encontre o Maior Elemento no Array](#14)
 Dificuldade: ⭐⭐☆☆☆
 
 ### Descrição do Problema
@@ -235,7 +235,7 @@ O objetivo é descobrir o maior elemento em um array de inteiros.
 ### Exemplo de Saída
 O maior número é 9
 
-## 15° Dia (24/10) - Soma dos Dígitos
+## [15° Dia (24/10) - Soma dos Dígitos](#15)
 Dificuldade: ⭐⭐☆☆☆
 
 ### Descrição do Problema
@@ -247,7 +247,7 @@ O objetivo é calcular a soma dos dígitos de um número inteiro.
 ### Exemplo de Saída
 A soma dos dígitos é 15
 
-## 16° Dia (25/10) - Contagem de Vogais
+## [16° Dia (25/10) - Contagem de Vogais](#16)
 Dificuldade: ⭐⭐☆☆☆
 
 ### Descrição do Problema
@@ -258,7 +258,7 @@ O objetivo é contar quantas vogais (inclusive com acentuações) existem em uma
 
 ### Exemplo de Saída
 Existem 5 vogais na string
-## 17° Dia (26/10) - Contagem de Números Positivos e Negativos
+## [17° Dia (26/10) - Contagem de Números Positivos e Negativos](#17)
 Dificuldade: ⭐⭐☆☆☆
 
 ### Descrição do Problema
@@ -271,7 +271,7 @@ O objetivo é contar quantos números positivos e negativos existem em um array 
 Positivos: 4
 
 Negativos: 3
-## 18° Dia (27/10) - Gerador de Senhas Aleatórias
+## [18° Dia (27/10) - Gerador de Senhas Aleatórias](#18)
 Dificuldade: ⭐⭐⭐☆☆
 
 ### Descrição do Problema
@@ -279,7 +279,7 @@ O objetivo é criar um programa que gere senhas aleatórias de 8 caracteres, com
 
 ### Exemplo de Saída
 A senha gerada é: A2bF9zP7
-## 19° Dia (28/10) - Sequência Espelho
+## [19° Dia (28/10) - Sequência Espelho](#19)
 Dificuldade: ⭐⭐☆☆☆
 
 ### Descrição do Problema
@@ -290,7 +290,7 @@ O objetivo é criar um programa que gere uma sequência espelho. Dada uma sequê
 
 ### Exemplo de Saída
 [1, 2, 3, 3, 2, 1]
-## 20° Dia (29/10) - Contador de Vezes
+## [20° Dia (29/10) - Contador de Vezes](#20)
 Dificuldade: ⭐⭐☆☆☆
 
 ### Descrição do Problema
@@ -303,7 +303,7 @@ Letra: 'a'
 
 ### Exemplo de Saída
 4
-## 21° Dia (30/10) - Validador de Senha
+## [21° Dia (30/10) - Validador de Senha](#21)
 Dificuldade: ⭐⭐⭐☆☆
 
 ### Descrição do Problema
@@ -314,7 +314,7 @@ O objetivo é criar um programa que valide senhas com os seguintes critérios: p
 
 ### Exemplo de Saída
 Senha válida
-## 22° Dia (31/10) - Gerador de Frases
+## [22° Dia (31/10) - Gerador de Frases](#22)
 Dificuldade: ⭐⭐⭐☆☆
 
 ### Descrição do Problema
