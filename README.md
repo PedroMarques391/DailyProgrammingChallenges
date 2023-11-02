@@ -41,8 +41,9 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 
 
 ## Desafios
+<a name="1"></a>
 
-## 1° Dia (10/10) - Tamanho da String
+## [1° Dia (10/10) - Tamanho da String](#1) 
 Dificuldade: ⭐☆☆☆☆
 
 ### Descrição do Problema
