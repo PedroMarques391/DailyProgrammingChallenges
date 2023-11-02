@@ -372,7 +372,7 @@ const cores = ["vermelho", "preto", "azul"];
 ```
 <a name="23"></a>
 
-## 23° Dia (01/11) - Verificador de Anagramas
+## [23° Dia (01/11) - Verificador de Anagramas](#23)
 Dificuldade: ⭐⭐☆☆☆
 
 ### Descrição do Problema
