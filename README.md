@@ -38,6 +38,7 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [21° Dia (30/10) - Validador de Senha](#21)
 - [22° Dia (31/10) - Gerador de Frases](#22)
 - [23° Dia (01/11) - Verificador de Anagramas](#23)
+- [24° Dia (02/11) - Máquina do Tempo](#24)
 
 
 ## Desafios
@@ -384,3 +385,26 @@ Palavra 2: "roma"
 
 ### Exemplo de Saída
 São anagramas!
+
+<a name="24"></a>
+
+## [24° dia (02/11) - Máquina do Tempo](#24)
+Dificuldade: ⭐⭐☆☆☆
+
+### Descrição do Problema
+Crie um programa que simule uma máquina do tempo, onde o usuário pode viajar para diferentes períodos históricos e interagir com o ambiente.
+
+### Exemplo de Entrada
+(Sem entrada)
+
+### Exemplo de Saída
+```Viagem no Tempo:
+
+Você está no Egito Antigo. O que você deseja fazer?
+
+1. Conhecer os faraós.
+2. Explorar as pirâmides.
+
+Digite o número da sua escolha: 1
+
+Você se encontra com o Faraó Ramsés II. Ele lhe faz perguntas sobre o futuro...```

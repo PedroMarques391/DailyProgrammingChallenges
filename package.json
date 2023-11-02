@@ -5,10 +5,14 @@
   "author": "Pedro <pedromarques391@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node-dev --respawn --transpile-only Level2/Day23.ts"
+    "dev": "ts-node-dev --respawn --transpile-only Level2/Day24.ts"
   },
   "devDependencies": {
+    "@types/readline-sync": "^1.4.6",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
