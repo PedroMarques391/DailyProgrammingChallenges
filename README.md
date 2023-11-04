@@ -1,4 +1,4 @@
-# Desafios Diários - @codandonagringa
+# Desafios Diários - [@codandonagringa](https://www.instagram.com/codandonagringa/)
 
 Este repositório é dedicado ao registro de todos os desafios diários propostos por [@codandonagringa](https://www.instagram.com/codandonagringa/). O projeto é altamente interessante, pois permite a prática de vários conceitos de programação.
 
