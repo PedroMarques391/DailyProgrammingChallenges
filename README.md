@@ -39,7 +39,7 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [22° Dia (31/10) - Gerador de Frases](#22)
 - [23° Dia (01/11) - Verificador de Anagramas](#23)
 - [24° Dia (02/11) - Máquina do Tempo](#24)
-- [25° Dia (03/11) - Máquina do Tempo](#25)
+- [25° Dia (03/11) - A Cozinha Musical](#25)
 
 
 ## Desafios
