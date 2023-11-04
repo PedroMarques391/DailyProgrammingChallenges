@@ -39,6 +39,7 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [22° Dia (31/10) - Gerador de Frases](#22)
 - [23° Dia (01/11) - Verificador de Anagramas](#23)
 - [24° Dia (02/11) - Máquina do Tempo](#24)
+- [25° Dia (03/11) - Máquina do Tempo](#25)
 
 
 ## Desafios
@@ -407,4 +408,19 @@ Você está no Egito Antigo. O que você deseja fazer?
 
 Digite o número da sua escolha: 1
 
-Você se encontra com o Faraó Ramsés II. Ele lhe faz perguntas sobre o futuro...```
+Você se encontra com o Faraó Ramsés II. Ele lhe faz perguntas sobre o futuro...
+```
+
+<a name="25"></a>
+
+## [25° dia (03/11) - A Cozinha Musical](#25)
+Dificuldade: ⭐⭐☆☆☆
+
+### Descrição do Problema
+Crie um programa que simule uma cozinha onde cada ingrediente adicionado à receita gera uma nota musical. Por exemplo: adicionar "Tomate" toca um "Dó", "Cebola" toca um "Ré", etc.
+
+### Exemplo de Entrada
+``Lista de ingredientes (por exemplo, ["Tomate", "Cebola", "Alho"]).``
+
+### Exemplo de Saída
+``Uma sequência de notas musicais (por exemplo, "Dó, Ré, Mi").``
