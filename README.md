@@ -40,8 +40,8 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [23° Dia (01/11) - Verificador de Anagramas](#23)
 - [24° Dia (02/11) - Máquina do Tempo](#24)
 - [25° Dia (03/11) - A Cozinha Músical](#25)
-- [26° dia (04/11) - Playlist Personalizada](#26)
-- [27° dia (05/11) - Média de temperatura, temperatura mais alta e mais baixa.](#27)
+- [26° dia (05/11) - Playlist Personalizada](#26)
+- [27° dia (06/11) - Média de temperatura, temperatura mais alta e mais baixa.](#27)
 
 
 ## Desafios
@@ -429,7 +429,7 @@ Crie um programa que simule uma cozinha onde cada ingrediente adicionado à rece
 
 <a name="26"></a>
 
-## [26° dia (04/11) - Playlist Personalizada](#26)
+## [26° dia (05/11) - Playlist Personalizada](#26)
 Dificuldade: ⭐⭐☆☆☆
 
 ### Descrição do Problema
@@ -443,7 +443,7 @@ Crie um programa que permite ao usuário construir uma playlist de músicas. Uti
 
 <a name="27"></a>
 
-## [27° dia (05/11) -  Monitoramento de Temperatura Ambiental](#27)
+## [27° dia (06/11) -  Monitoramento de Temperatura Ambiental](#27)
 Dificuldade: ⭐⭐☆☆☆
 
 ### Descrição do Problema
