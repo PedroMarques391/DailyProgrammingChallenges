@@ -40,6 +40,8 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [23° Dia (01/11) - Verificador de Anagramas](#23)
 - [24° Dia (02/11) - Máquina do Tempo](#24)
 - [25° Dia (03/11) - Máquina do Tempo](#25)
+- [26° dia (04/11) - Playlist Personalizada](#26)
+- [27° dia (05/11) - Média de temperatura, temperatura mais alta e mais baixa.](#27)
 
 
 ## Desafios
@@ -424,3 +426,31 @@ Crie um programa que simule uma cozinha onde cada ingrediente adicionado à rece
 
 ### Exemplo de Saída
 ``Uma sequência de notas musicais (por exemplo, "Dó, Ré, Mi").``
+
+<a name="26"></a>
+
+## [26° dia (04/11) - Playlist Personalizada](#26)
+Dificuldade: ⭐⭐☆☆☆
+
+### Descrição do Problema
+Crie um programa que permite ao usuário construir uma playlist de músicas. Utilize um array para armazenar as músicas, e loops para permitir que o usuário adicione, remova, ou visualize a playlist.
+
+### Exemplo de Entrada
+``Ações como "Adicionar", "Remover", "Visualizar", os nomes das músicas.``
+
+### Exemplo de Saída
+``Lista atualizada da playlist.``
+
+<a name="27"></a>
+
+## [27° dia (05/11) -  Monitoramento de Temperatura Ambiental](#27)
+Dificuldade: ⭐⭐☆☆☆
+
+### Descrição do Problema
+Desenvolva um programa que monitora a temperatura de uma sala ao longo do dia. Armazene as leituras de temperatura em um array e use loops para calcular a média, a temperatura mais alta e a mais baixa.
+
+### Exemplo de Entrada
+``Temperaturas registradas ao longo do dia, exemplo: [27.6, 32.3, 29.5]``
+
+### Exemplo de Saída
+``Média de temperatura, temperatura mais alta e mais baixa.``
