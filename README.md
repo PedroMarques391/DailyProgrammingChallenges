@@ -430,7 +430,6 @@ Crie um programa que simule uma cozinha onde cada ingrediente adicionado à rece
 
 ### Exemplo de Saída
 ``Uma sequência de notas musicais (por exemplo, "Dó, Ré, Mi").``
-<<<<<<< HEAD
 
 <a name="26"></a>
 
@@ -459,5 +458,3 @@ Desenvolva um programa que monitora a temperatura de uma sala ao longo do dia. A
 
 ### Exemplo de Saída
 ``Média de temperatura, temperatura mais alta e mais baixa.``
-=======
->>>>>>> 07c4d73f1f48b9650274cdd1f9625a5ef1db3bec
