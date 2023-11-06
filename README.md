@@ -1,4 +1,4 @@
-# Desafios Diários - @codandonagringa
+# Desafios Diários - [@codandonagringa](https://www.instagram.com/codandonagringa/)
 
 Este repositório é dedicado ao registro de todos os desafios diários propostos por [@codandonagringa](https://www.instagram.com/codandonagringa/). O projeto é altamente interessante, pois permite a prática de vários conceitos de programação.
 
@@ -39,9 +39,13 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [22° Dia (31/10) - Gerador de Frases](#22)
 - [23° Dia (01/11) - Verificador de Anagramas](#23)
 - [24° Dia (02/11) - Máquina do Tempo](#24)
+<<<<<<< HEAD
 - [25° Dia (03/11) - Máquina do Tempo](#25)
 - [26° dia (04/11) - Playlist Personalizada](#26)
 - [27° dia (05/11) - Média de temperatura, temperatura mais alta e mais baixa.](#27)
+=======
+- [25° Dia (03/11) - A Cozinha Musical](#25)
+>>>>>>> 07c4d73f1f48b9650274cdd1f9625a5ef1db3bec
 
 
 ## Desafios
@@ -426,6 +430,7 @@ Crie um programa que simule uma cozinha onde cada ingrediente adicionado à rece
 
 ### Exemplo de Saída
 ``Uma sequência de notas musicais (por exemplo, "Dó, Ré, Mi").``
+<<<<<<< HEAD
 
 <a name="26"></a>
 
@@ -454,3 +459,5 @@ Desenvolva um programa que monitora a temperatura de uma sala ao longo do dia. A
 
 ### Exemplo de Saída
 ``Média de temperatura, temperatura mais alta e mais baixa.``
+=======
+>>>>>>> 07c4d73f1f48b9650274cdd1f9625a5ef1db3bec
