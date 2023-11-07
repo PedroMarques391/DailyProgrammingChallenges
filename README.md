@@ -42,6 +42,7 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [25° Dia (03/11) - A Cozinha Músical](#25)
 - [26° dia (05/11) - Playlist Personalizada](#26)
 - [27° dia (06/11) - Média de temperatura, temperatura mais alta e mais baixa.](#27)
+- [28° dia (07/11) - Sistema de Reservas de Hotéis](#28)
 
 
 ## Desafios
@@ -454,3 +455,17 @@ Desenvolva um programa que monitora a temperatura de uma sala ao longo do dia. A
 
 ### Exemplo de Saída
 ``Média de temperatura, temperatura mais alta e mais baixa.``
+
+<a name="28"></a>
+
+## [28° dia (07/11) - Sistema de Reservas de Hotéis](#28)
+Dificuldade: ⭐⭐⭐☆☆
+
+### Descrição do Problema
+Faça um programa para gerenciar reservas em um hotel. Use um array para representar os quartos disponíveis e outro para os ocupados. Permita que usuários façam reservas, cancelamentos e busquem por quartos vazios.
+
+### Exemplo de Entrada
+``Comandos como "reservar", "cancelar", "buscar" e detalhes da reserva.``
+
+### Exemplo de Saída
+``Listas de quartos disponíveis e ocupados após cada operação.``
