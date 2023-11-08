@@ -43,6 +43,7 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [26° dia (05/11) - Playlist Personalizada](#26)
 - [27° dia (06/11) - Média de temperatura, temperatura mais alta e mais baixa.](#27)
 - [28° dia (07/11) - Sistema de Reservas de Hotéis](#28)
+- [29° dia (08/11) - Simulador de Dado](#29)
 
 
 ## Desafios
@@ -469,3 +470,17 @@ Faça um programa para gerenciar reservas em um hotel. Use um array para represe
 
 ### Exemplo de Saída
 ``Listas de quartos disponíveis e ocupados após cada operação.``
+
+<a name="29"></a>
+
+## [29° dia (08/11) - Simulador de Dado](#29)
+Dificuldade: ⭐☆☆☆☆
+
+## Descrição do Problema
+Escreva um programa que simula o lançamento de um dado, mostrando os resultados.
+
+## Exemplo de Entrada:
+```Lançamentos: 5```
+​
+## Exemplo de Saída:
+```4, 2, 1, 6```
