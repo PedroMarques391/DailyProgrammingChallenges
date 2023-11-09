@@ -44,7 +44,7 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [27° dia (06/11) - Média de temperatura, temperatura mais alta e mais baixa.](#27)
 - [28° dia (07/11) - Sistema de Reservas de Hotéis](#28)
 - [29° dia (08/11) - Simulador de Dado](#29) 
-- [29° dia (09/11) - Lista de Compras](#30) 
+- [30° dia (09/11) - Lista de Compras](#30) 
 
 
 ## Desafios
