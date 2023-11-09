@@ -43,7 +43,8 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [26° dia (05/11) - Playlist Personalizada](#26)
 - [27° dia (06/11) - Média de temperatura, temperatura mais alta e mais baixa.](#27)
 - [28° dia (07/11) - Sistema de Reservas de Hotéis](#28)
-- [29° dia (08/11) - Simulador de Dado](#29)
+- [29° dia (08/11) - Simulador de Dado](#29) 
+- [29° dia (09/11) - Lista de Compras](#30) 
 
 
 ## Desafios
@@ -484,3 +485,23 @@ Escreva um programa que simula o lançamento de um dado, mostrando os resultados
 ​
 ## Exemplo de Saída:
 ```4, 2, 1, 6```
+
+<a name="30"></a>
+
+## [30° dia (09/11) - Lista de Compras](#30)
+Dificuldade: ⭐☆☆☆☆
+## Descrição do Problema
+Escreva um programa que cria uma lista de compras simples.
+## Exemplo de Entrada:
+```
+Itens de compras inseridos pelo usuário até que ele digite 'sair'
+
+Maçã
+Pão
+sair
+```
+​
+## Exemplo de Saída:
+```
+Lista de Compras: Maçã, Pão
+```
