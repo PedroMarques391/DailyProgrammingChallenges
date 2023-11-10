@@ -45,6 +45,7 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [28° dia (07/11) - Sistema de Reservas de Hotéis](#28)
 - [29° dia (08/11) - Simulador de Dado](#29) 
 - [30° dia (09/11) - Lista de Compras](#30) 
+- [31° dia (10/11) - Organizador de E-mails](#31) 
 
 
 ## Desafios
@@ -504,4 +505,26 @@ sair
 ## Exemplo de Saída:
 ```
 Lista de Compras: Maçã, Pão
+```
+
+# [31° dia (10/11) - Organizador de E-mails](#31)
+
+Dificuldade: ⭐⭐⭐☆☆
+
+### **Descrição do Problema**
+
+Escreva um programa que organiza e-mails por domínio retornando um Hash com os emails separados por dominio
+
+### **Exemplo de Entrada:**
+
+```
+["user1@gmail.com", "user2@yahoo.com", "user3@gmail.com"]
+```
+
+### **Exemplo de Saída:**
+```
+{
+  "gmail.com" => [user1@gmail.com, user3@gmail.com],
+  "yahoo.com" => [user2@yahoo.com]
+}
 ```
