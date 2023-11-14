@@ -2,7 +2,11 @@ interface Udomains {
     [key : string] : string[]
 }
 
-const emails: string[] = ['user1@gmail.com', 'user2@gmail.com', 'user1@hotmail.com', 'user2@hotmail.com',"user2@yahoo.com", "user5@outroDominio.com"]
+const emails: string[] = [
+    'user1@gmail.com', 'user2@gmail.com', 
+    'user1@hotmail.com', 'user2@hotmail.com',
+    "user2@yahoo.com", "user5@outroDominio.com"
+]
 
 function order (arr: string[]): Udomains {
     const domains: Udomains = {
