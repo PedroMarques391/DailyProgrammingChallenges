@@ -13,7 +13,9 @@ Foi utilizado o `ts-node-dev` para executar o TypeScript diretamente no Node.js,
 
 Lembre-se de conferir o código-fonte e os desafios neste repositório e participar ativamente!
 
-## Desafios Diários - Menu de Navegação
+<a name="0"></a>
+
+## Desafios Diários - [Menu de Navegação](#0)
 
 - [1° Dia (10/10) - Tamanho da String](#1)
 - [2° Dia (11/10) - Transformar em Grito](#2)
@@ -45,7 +47,9 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [28° dia (07/11) - Sistema de Reservas de Hotéis](#28)
 - [29° dia (08/11) - Simulador de Dado](#29) 
 - [30° dia (09/11) - Lista de Compras](#30) 
-- [31° dia (10/11) - Organizador de E-mails](#31) 
+- [31° dia (10/11) - Organizador de E-mails](#31)
+- [32° dia (12/11) - Simulador de Sorteio de Loteria](#32)
+- [33° dia (13/11) - Analisador de Frequência de Palavras em Texto](#33) 
 
 
 ## Desafios
@@ -529,3 +533,31 @@ Escreva um programa que organiza e-mails por domínio retornando um Hash com os 
   "yahoo.com" => [user2@yahoo.com]
 }
 ```
+<a name="32"></a>
+
+## [32° dia - Simulador de Sorteio de Loteria](#32)
+Dificuldade: ⭐☆☆☆☆
+
+Descrição do Problema
+Escreva um programa que simula um sorteio de loteria, dada a quantidade de números que deve ser gerado, ele gera os números aleatórios.
+## Exemplo de Entrada:
+```6```
+​
+## Exemplo de Saída:
+```4, 15, 23, 36, 42, 59```
+
+<a name="33"></a>
+
+## [33° dia (13/11) - Analisador de Frequência de Palavras em Texto](#33)
+Dificuldade: ⭐⭐⭐☆☆
+
+Descrição do Problema
+Escreva um programa que conta a frequência de cada palavra em um texto.
+## Exemplo de Entrada:
+```"o sol é sol e a lua é lua"```
+​
+## Exemplo de Saída:
+```{ sol: 2, é: 2, lua: 2, o: 1, a: 1, e: 1 }```
+
+
+[**Voltar para o Menu**](#0)
