@@ -5,7 +5,7 @@
   "author": "Pedro <pedromarques391@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node-dev --respawn --transpile-only Level1/Day32.ts"
+    "dev": "ts-node-dev --respawn --transpile-only Level3/Day34.ts"
   },
   "devDependencies": {
     "@types/readline-sync": "^1.4.6",

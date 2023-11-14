@@ -50,6 +50,7 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [31° dia (10/11) - Organizador de E-mails](#31)
 - [32° dia (12/11) - Simulador de Sorteio de Loteria](#32)
 - [33° dia (13/11) - Analisador de Frequência de Palavras em Texto](#33) 
+- [34° dia (14/11) - Conversor de Código Binário para Texto](#34) 
 
 
 ## Desafios
@@ -559,5 +560,19 @@ Escreva um programa que conta a frequência de cada palavra em um texto.
 ## Exemplo de Saída:
 ```{ sol: 2, é: 2, lua: 2, o: 1, a: 1, e: 1 }```
 
+<a name="34"></a>
+
+## [34° dia - Conversor de Código Binário para Texto](#34)
+Dificuldade: ⭐⭐⭐☆☆
+
+Descrição do Problema
+Escreva um programa que converte uma string de código binário para texto (ASCII).
+## Exemplo de Entrada:
+```"01001000 01100101 01101100 01101100 01101111"```
+​
+## Exemplo de Saída:
+```Hello```
+
 
 [**Voltar para o Menu**](#0)
+
