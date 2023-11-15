@@ -51,6 +51,7 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [32° dia (12/11) - Simulador de Sorteio de Loteria](#32)
 - [33° dia (13/11) - Analisador de Frequência de Palavras em Texto](#33) 
 - [34° dia (14/11) - Conversor de Código Binário para Texto](#34) 
+- [35° dia (15/11) - Criado de QRCODE](#35) 
 
 
 ## Desafios
@@ -573,6 +574,18 @@ Escreva um programa que converte uma string de código binário para texto (ASCI
 ## Exemplo de Saída:
 ```Hello```
 
+<a name="35"></a>
+
+## [35° dia (15/11) - Criador de QR Code](#35)
+Dificuldade: ⭐⭐⭐☆☆
+
+Descrição do Problema
+Escreva um programa que gera um QR Code a partir de uma URL ou texto
+## Exemplo de Entrada:
+```https://www.exemplo.com```
+​
+## Exemplo de Saída:
+```QR Code (como imagem)```
 
 [**Voltar para o Menu**](#0)
 
