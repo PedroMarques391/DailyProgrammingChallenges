@@ -51,7 +51,8 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [32° dia (12/11) - Simulador de Sorteio de Loteria](#32)
 - [33° dia (13/11) - Analisador de Frequência de Palavras em Texto](#33) 
 - [34° dia (14/11) - Conversor de Código Binário para Texto](#34) 
-- [35° dia (15/11) - Criado de QRCODE](#35) 
+- [35° dia (15/11) - Criador de QRCODE](#35) 
+- [36° dia (16/11) - Jogo de Adivinhação de Números](#36) 
 
 
 ## Desafios
@@ -586,6 +587,20 @@ Escreva um programa que gera um QR Code a partir de uma URL ou texto
 ​
 ## Exemplo de Saída:
 ```QR Code (como imagem)```
+
+<a name="36"></a>
+
+## [36° dia (16/11) - Jogo de Adivinhação de Números](#36)
+Dificuldade: ⭐☆☆☆☆
+
+Descrição do Problema
+Escreva um programa que permite ao usuário adivinhar um número aleatório (de 0 a 100) gerado pelo computador.
+## Exemplo de Entrada:
+```25```
+​
+## Exemplo de Saída:
+```O valor é menor! Tente Novamente```
+
 
 [**Voltar para o Menu**](#0)
 
