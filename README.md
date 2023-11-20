@@ -55,6 +55,7 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [36° dia (16/11) - Jogo de Adivinhação de Números](#36) 
 - [37° dia (17/11) - Decodificador de Mensagens Secretas](#37)
 - [38° dia (19/11) - Fibonacci](#38) 
+- [39° dia (20/11) - Decifrador de Códigos Morse](#39) 
 
 
 ## Desafios
@@ -628,6 +629,19 @@ Escreva um programa que calcula e exibe a sequência de Fibonacci até um certo 
 ​
 ## Exemplo de Saída:
 ```0, 1, 1, 2, 3```
+
+<a name="39"></a>
+
+## [39° dia (20/11) - Decifrador de Códigos Morse](#39)
+Dificuldade: ⭐⭐☆☆☆
+
+Descrição do Problema
+Escreva um programa que converte mensagens em código Morse (através de um array de strings) para texto
+Exemplo de Entrada:
+```["...", "---", "..."]```
+​
+## Exemplo de Saída:
+```SOS```
 
 [**Voltar para o Menu**](#0)
 
