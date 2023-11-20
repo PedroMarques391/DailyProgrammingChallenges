@@ -53,6 +53,8 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [34° dia (14/11) - Conversor de Código Binário para Texto](#34) 
 - [35° dia (15/11) - Criador de QRCODE](#35) 
 - [36° dia (16/11) - Jogo de Adivinhação de Números](#36) 
+- [37° dia (17/11) - Decodificador de Mensagens Secretas](#37)
+- [38° dia (19/11) - Fibonacci](#38) 
 
 
 ## Desafios
@@ -601,6 +603,31 @@ Escreva um programa que permite ao usuário adivinhar um número aleatório (de 
 ## Exemplo de Saída:
 ```O valor é menor! Tente Novamente```
 
+<a name="37"></a>
+
+## [37° dia (17/11) - Decodificador de Mensagens Secretas](#37)
+Dificuldade: ⭐⭐☆☆☆
+
+Descrição do Problema
+Escreva um programa que decifra mensagens codificadas com uma cifra simples (como a cifra de César).
+## Exemplo de Entrada:
+```"Khoor Zruog", chave 3```
+​
+## Exemplo de Saída:
+```"Hello World"```
+
+<a name="38"></a>
+
+## [38° dia (19/11) - Fibonacci](#38)
+Dificuldade: ⭐⭐☆☆☆
+
+Descrição do Problema
+Escreva um programa que calcula e exibe a sequência de Fibonacci até um certo número.
+## Exemplo de Entrada:
+```5```
+​
+## Exemplo de Saída:
+```0, 1, 1, 2, 3```
 
 [**Voltar para o Menu**](#0)
 
