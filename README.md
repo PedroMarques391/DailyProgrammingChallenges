@@ -56,6 +56,7 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [37° dia (17/11) - Decodificador de Mensagens Secretas](#37)
 - [38° dia (19/11) - Fibonacci](#38) 
 - [39° dia (20/11) - Decifrador de Códigos Morse](#39) 
+- [40° dia (21/11) - Fatorial](#40) 
 
 
 ## Desafios
@@ -642,6 +643,19 @@ Exemplo de Entrada:
 ​
 ## Exemplo de Saída:
 ```SOS```
+
+<a name="40"></a>
+
+## [40° dia (21/11) - Fatorial](#40)
+Dificuldade: ⭐⭐☆☆☆
+
+Descrição do Problema
+Escreva um programa que calcula o fatorial de um número
+## Exemplo de Entrada:
+```5```
+​
+## Exemplo de Saída:
+```120```
 
 [**Voltar para o Menu**](#0)
 
