@@ -57,6 +57,7 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [38° dia (19/11) - Fibonacci](#38) 
 - [39° dia (20/11) - Decifrador de Códigos Morse](#39) 
 - [40° dia (21/11) - Fatorial](#40) 
+- [41° dia (22/11) - Encontrar o Par Perdido](#41) 
 
 
 ## Desafios
@@ -656,6 +657,19 @@ Escreva um programa que calcula o fatorial de um número
 ​
 ## Exemplo de Saída:
 ```120```
+
+<a name="41"></a>
+
+## [41° dia (22/11) - Encontrar o Par Perdido](#41)
+Dificuldade: ⭐⭐☆☆☆
+
+Descrição do Problema
+Escreva um programa que dada uma lista de números onde cada número, exceto um, aparece duas vezes, encontre o número que aparece apenas uma vez.
+## Exemplo de Entrada:
+```[1, 2, 3, 2, 1]```
+​
+## Exemplo de Saída:
+```3```
 
 [**Voltar para o Menu**](#0)
 
