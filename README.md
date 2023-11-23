@@ -58,6 +58,7 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [39° dia (20/11) - Decifrador de Códigos Morse](#39) 
 - [40° dia (21/11) - Fatorial](#40) 
 - [41° dia (22/11) - Encontrar o Par Perdido](#41) 
+- [42° dia (23/11) - Calculadora de Troco](#42) 
 
 
 ## Desafios
@@ -670,6 +671,19 @@ Escreva um programa que dada uma lista de números onde cada número, exceto um,
 ​
 ## Exemplo de Saída:
 ```3```
+
+<a name="41"></a>
+
+## [42° dia (23/11) - Calculadora de Troco](#42)
+Dificuldade: ⭐⭐⭐☆☆
+
+Descrição do Problema
+Escreva um programa que simula o recebimento do troco em uma compra.
+## Exemplo de Entrada:
+```Valor a pagar: R$10, Valor pago: R$20```
+​
+## Exemplo de Saída:
+```Troco: R$10, 1 nota de R$10```
 
 [**Voltar para o Menu**](#0)
 
