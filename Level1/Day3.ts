@@ -1,11 +1,10 @@
-type arr = number[] | string[]
+type Uarr = number[] | string[]
 
-const arr: arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] 
+const arr: Uarr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-
-function reverseArray():arr {
-    const reverse: arr = arr.reverse()
-    return reverse
+function reverseArray (): Uarr {
+  const reverse: Uarr = arr.reverse()
+  return reverse
 }
 
 console.log(reverseArray())
