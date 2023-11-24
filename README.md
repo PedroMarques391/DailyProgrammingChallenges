@@ -59,6 +59,7 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [40° dia (21/11) - Fatorial](#40) 
 - [41° dia (22/11) - Encontrar o Par Perdido](#41) 
 - [42° dia (23/11) - Calculadora de Troco](#42) 
+- [43° dia (24/11) - Simulador de Lançamento de Moeda](#43) 
 
 
 ## Desafios
@@ -672,7 +673,7 @@ Escreva um programa que dada uma lista de números onde cada número, exceto um,
 ## Exemplo de Saída:
 ```3```
 
-<a name="41"></a>
+<a name="42"></a>
 
 ## [42° dia (23/11) - Calculadora de Troco](#42)
 Dificuldade: ⭐⭐⭐☆☆
@@ -684,6 +685,20 @@ Escreva um programa que simula o recebimento do troco em uma compra.
 ​
 ## Exemplo de Saída:
 ```Troco: R$10, 1 nota de R$10```
+
+<a name="43"></a>
+
+## [43° dia (24/11) - Simulador de Lançamento de Moeda](#43)
+Dificuldade: ⭐☆☆☆☆
+
+Descrição do Problema
+Escreva um programa que simula o lançamento de uma moeda várias vezes e conta o número de caras e coroas
+## Exemplo de Entrada:
+```10```
+​
+## Exemplo de Saída:
+```Caras: 6, Coroas: 4```
+
 
 [**Voltar para o Menu**](#0)
 
