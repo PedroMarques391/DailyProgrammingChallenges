@@ -60,6 +60,7 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [41° dia (22/11) - Encontrar o Par Perdido](#41) 
 - [42° dia (23/11) - Calculadora de Troco](#42) 
 - [43° dia (24/11) - Simulador de Lançamento de Moeda](#43) 
+- [44° dia (27/11) - Calculadora de IMC](#44) 
 
 
 ## Desafios
@@ -698,6 +699,19 @@ Escreva um programa que simula o lançamento de uma moeda várias vezes e conta 
 ​
 ## Exemplo de Saída:
 ```Caras: 6, Coroas: 4```
+
+<a name="44"></a>
+
+## [44° dia (27/11) - Calculadora de IMC](#44)
+Dificuldade: ⭐☆☆☆☆
+
+Descrição do Problema
+Escreva um programa que calcula o Índice de Massa Corporal (IMC) com base no peso e altura do usuário.
+## Exemplo de Entrada:
+```Peso: 70kg, Altura: 1.75m```
+​
+## Exemplo de Saída:
+```IMC: 22.86```
 
 
 [**Voltar para o Menu**](#0)
