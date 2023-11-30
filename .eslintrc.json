@@ -13,6 +13,7 @@
         "@typescript-eslint/no-for-in-array": "off",
         "@typescript-eslint/restrict-template-expressions": "off",
         "array-callback-return": "off", 
+        "no-unmodified-loop-condition": "off", 
         "@typescript-eslint/strict-boolean-expressions": "off", 
         "@typescript-eslint/explicit-function-return-type": "off"
     }

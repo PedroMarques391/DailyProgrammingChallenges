@@ -61,6 +61,8 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [42° dia (23/11) - Calculadora de Troco](#42) 
 - [43° dia (24/11) - Simulador de Lançamento de Moeda](#43) 
 - [44° dia (27/11) - Calculadora de IMC](#44) 
+- [45 dia (28/11) - Contagem Regressiva Recursiva](#45) 
+- [46 dia (20/11) - Conversor de Notação Romana](#46) 
 
 
 ## Desafios
@@ -713,6 +715,31 @@ Escreva um programa que calcula o Índice de Massa Corporal (IMC) com base no pe
 ## Exemplo de Saída:
 ```IMC: 22.86```
 
+<a name="45"></a>
+
+## [45° dia - Contagem Regressiva Recursiva](#45)
+Dificuldade: ⭐⭐☆☆☆
+
+Descrição do Problema
+Escreva um programa que utiliza uma função recursiva para fazer uma contagem regressiva a partir de um número dado.
+## Exemplo de Entrada:
+``5``
+​
+## Exemplo de Saída:
+``5, 4, 3, 2, 1, 0``
+
+<a name="46"></a>
+
+## [46° dia (29/11) - Conversor de Notação Romana](#46)
+Dificuldade: ⭐⭐☆☆☆
+
+Descrição do Problema
+Escreva um programa que converte um número em sua representação em numeral romano.
+## Exemplo de Entrada:
+```58```
+​
+## Exemplo de Saída:
+```LVIII```
 
 [**Voltar para o Menu**](#0)
 
