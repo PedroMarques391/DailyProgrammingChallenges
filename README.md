@@ -61,8 +61,10 @@ Lembre-se de conferir o código-fonte e os desafios neste repositório e partici
 - [42° dia (23/11) - Calculadora de Troco](#42) 
 - [43° dia (24/11) - Simulador de Lançamento de Moeda](#43) 
 - [44° dia (27/11) - Calculadora de IMC](#44) 
-- [45 dia (28/11) - Contagem Regressiva Recursiva](#45) 
-- [46 dia (20/11) - Conversor de Notação Romana](#46) 
+- [45° dia (28/11) - Contagem Regressiva Recursiva](#45) 
+- [46° dia (29/11) - Conversor de Notação Romana](#46) 
+- [47° dia (30/11) - Verificador de Palíndromo Numérico](#47) 
+- [48° dia (01/12) - O Mestre Do Tempo](#48) 
 
 
 ## Desafios
@@ -740,6 +742,32 @@ Escreva um programa que converte um número em sua representação em numeral ro
 ​
 ## Exemplo de Saída:
 ```LVIII```
+
+<a name="47"></a>
+
+## [47° dia (30/11) - Verificador de Palíndromo Numérico](#47)
+Dificuldade: ⭐☆☆☆☆
+
+Descrição do Problema
+Escreva um programa que verifica se um número é um palíndromo (o número é o mesmo se lido de trás para frente).
+## Exemplo de Entrada:
+```12321```
+​
+## Exemplo de Saída:
+```Palíndromo```
+
+<a name="48"></a>
+
+## [48° dia (01/12) - O Mestre do Tempo](#48)
+Dificuldade: ⭐⭐☆☆☆
+
+Descrição do Problema
+Escreva um programa que calcula a diferença entre duas datas e horários, considerando anos, meses, dias, horas, minutos e segundos.
+## Exemplo de Entrada:
+```2020-01-01 14:00:00, 2023-03-15 12:30:30```
+​
+## Exemplo de Saída:
+```3 anos, 2 meses, 14 dias, 22 horas, 30 minutos e 30 segundos```
 
 [**Voltar para o Menu**](#0)
 
